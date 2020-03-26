@@ -23,7 +23,7 @@ namespace GitTest
         public MainWindow()
         {
             InitializeComponent();
-            Console.WriteLine("fuck u");
+            
         }
     }
 }
